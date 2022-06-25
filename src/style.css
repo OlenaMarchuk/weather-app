@@ -10,6 +10,7 @@ ul {
 h1 {
   font-weight: 700;
   font-style: italic;
+  color: red;
 }
 .city-search {
   margin-top: 20px;
