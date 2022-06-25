@@ -156,3 +156,8 @@ h1 {
 img.details {
   max-width: 50px;
 }
+a.git-source {
+  text-decoration: none;
+  float: right;
+  padding-top: 10px;
+}
